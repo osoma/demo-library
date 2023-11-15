@@ -32,9 +32,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:hbelmiro/demo-library.git</connection>
-        <developerConnection>scm:git:ssh://github.com:hbelmiro/demo-library.git</developerConnection>
-        <url>https://github.com/hbelmiro/demo-library/tree/master</url>
+        <connection>scm:git:git@github.com:osoma/demo-library.git</connection>
+        <developerConnection>scm:git:ssh://github.com:osoma/demo-library.git</developerConnection>
+        <url>https://github.com/osoma/demo-library/tree/master</url>
     </scm>
 
     <profiles>
