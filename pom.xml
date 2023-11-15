@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.thegreatapi.demolibrary</groupId>
+    <groupId>com.demolib</groupId>
     <artifactId>demolibrary</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.1</version>
 
     <name>demolibrary</name>
     <description>
@@ -24,8 +24,8 @@
 
     <developers>
         <developer>
-            <name>Helber Belmiro</name>
-            <email>helber.belmiro@gmail.com</email>
+            <name>ASUMA</name>
+            <email>asuma.shahat@gmail.com</email>
             <organization>The Great API</organization>
             <organizationUrl>https://thegreatapi.com</organizationUrl>
         </developer>
